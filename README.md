@@ -6,3 +6,6 @@ Este projeto faz parte das atividades práticas do curso e será utilizado para 
 
 ## Objetivo
 Aplicar conceitos de versionamento e desenvolvimento de projetos utilizando Git e GitHub.
+
+
+essa linha eu fiz apenas para teste 
